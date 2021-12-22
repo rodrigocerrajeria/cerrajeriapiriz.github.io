@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## Piriz Cerrajeria
 
-You can use the [editor on GitHub](https://github.com/rodrigocerrajeria/cerrajeriapiriz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En Maldonado y sus alrededores. Trabajos a domicilio las 24 hrs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Aperturas**
 
-### Markdown
+**Reparación**
+
+**Instalación**
+
+**Cambios de combinación**
+
+**Duplicados**
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
