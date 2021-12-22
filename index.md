@@ -1,3 +1,4 @@
+[Image]https://raw.githubusercontent.com/rodrigocerrajeria/cerrajeriapiriz.github.io/gh-pages/logo_chico.png
 ## Piriz Cerrajeria
 
 En Maldonado y sus alrededores. Trabajos a domicilio las 24 hrs.
